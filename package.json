@@ -1,0 +1,15 @@
+{
+  "name": "desafio0712",
+  "version": "1.0.0",
+  "description": "Desafio Digital House",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Daniel Fuentes - Franco Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
